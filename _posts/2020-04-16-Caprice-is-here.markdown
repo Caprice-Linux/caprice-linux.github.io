@@ -429,3 +429,5 @@ ii  zlib1g:amd64                  1:1.2.11.dfsg-1                     amd64     
 
 - [ISO](http://oc.azadqalam.ir/caprice_20200416.iso)
 - [SHA2SUM](http://oc.azadqalam.ir/caprice_sha2.txt)
+
+The ISO login is `root` and password is `toor`. 
