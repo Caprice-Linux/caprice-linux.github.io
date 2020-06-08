@@ -21,10 +21,10 @@
 title: Caprice Linux 
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  A project with the goal of making linux on desktop great again :)
+  A project with the goal of making linux on desktop safe and easy again!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://capricelinux.org/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: capricelinux
 github_username:  caprice-linux
 
 # Build settings
