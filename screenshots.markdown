@@ -11,3 +11,5 @@ permalink: /screenshots/
 ## Desktop
 
 ![Caprice XFCE 4]({{site.url}}/assets/images/desktop.png)
+
+![Caprice 1.0-STABLE preview]({{site.url}}/assets/images/new-desktop.png)
