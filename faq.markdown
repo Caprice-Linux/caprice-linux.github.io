@@ -16,6 +16,8 @@ _Caprice Linux_ is a step further, comparing to the _Debian GNU/Linux_. Actually
 
 And to be honest, Debian Live discs are really good (some of them have even more packages pre-installed comparing to Caprice Linux TBH) but they're very _Debian-is_. I mean, Debian developers have to follow Debian guidelines, and Caprice Linux developers have to follow their own guidelines as well. Some things are a bit easier in process of Caprice Linux development such as shipping with `non-free` branch enabled by default. 
 
+In middle of June 2020, we also decided to implement _NetBSD_'s `pkgsrc` as a secondary and _pro-friendly_ package/port management system in Caprice Linux. 
+
 * __What's the difference between _Caprice Linux_ and _Debian GNU/Linux Live/Install Images_ which are shipped with _XFCE_?__
 
 This is the point. When we ask _What's the difference between Caprice and Debian?_, it means we actually didn't study Debian so well, and know nothing about Caprice Linux. But this one, is the actual point. I haven't tested _live_ discs shipped with XFCE. But I tested installation images. First of all, install images are not really easy to use for beginners and they don't provide much packages (mostly because of non-free dependencies or dependencies which are not classified as _XFCE_ tools or programs) but in Caprice, we provided a lot of tools from GNOME to make working with the system much easier. 
@@ -35,6 +37,8 @@ No. It's not. Although we're sponsered by _Iranian free/open-source software ass
 * __Is there any plans for dropping `systemd`__? 
 
 Of course. As _Caprice Linux_ has nothing to do with any other projects, we have some plans to change the init system. But, for now, Caprice will be shipped with `systemd`. 
+
+For now, _NetBSD_ init system works besides `systemd` and we hugely suggest it for installing services.
 
 * __How can I contribute to _Caprice Linux_?__ 
 
