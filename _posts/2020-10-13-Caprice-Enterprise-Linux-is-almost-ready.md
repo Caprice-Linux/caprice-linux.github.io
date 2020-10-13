@@ -34,3 +34,7 @@ Although we still have access to [Iranian Free Software Association](http://flos
 I was searching over the internet in past couple of days to find a good provider. Fortunately, I found one. I ordered my desired server and I also asked them for custom operating system installation. When everything was all set, I created the mirror and it will be announced very very soon. 
 
 ## Target market of _Caprice Enterprise Linux_ 
+
+For now, we only targeted the Iranian market. To be honest, for the last two months, we actually became a startup or a new-born company called _Caprice Enterprise Solution_ and we introduce ourselves as an enterprise solutions company. Somehow like RedHat, but not that big. 
+
+Why only Iran you ask? There are a few reasons. First, we have almost no competitors in Iran. So it can be a very successful market for us. Second, business with foreign countries is a bit hard for people inside Iran or Iranian citizens in general. We just want to make the strong basis here, then start business with others as well. 
