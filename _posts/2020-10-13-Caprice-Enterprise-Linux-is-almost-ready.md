@@ -15,3 +15,14 @@ So, this was one of the very first implementations of the enterprise edition. It
 
 And to be honest, at least in my region, people do not really like to leave Windows. Desktop Linux users here are usually geeky/nerdy people who love the concepts of POSIX, freedom of software, etc. Other people prefer Microsoft Windows or if they're a bit more fortunate, maybe macOS. So, instead of doing an awful lot of time-wasting jobs on making a workstation edition, we have dropped it. Now enterprise desktop. 
 
+## Challenges for _Caprice Enterprise Linux_ development. 
+
+### The installer 
+
+On the desktop version we have released by August 1st, we have used the amazing [calamares](http://calamares.io) which is a distribution-agnostic graphical installer. It's not really perfect yet, but it does what it should do. 
+
+In case of a server operating system, we needed something which works in the command line environment. I personally wanted to have calamares here as well. So I exchanged a few emails with _Adriaan de Groot_, the developer of this installer and asked him for some help about a CLI/TUI version of calamares. 
+
+He told me that they don't have any command-line options yet. So, he just guided me about how the installer works and it really made me happy. I had the skeleton of what I needed. So, I asked one of my interns to work on that. She came up with a pretty good algorithm and after a few days, I came up with the idea of _Caprice Unified Base System_ or `cubs` for short as the backend for a good system installer. 
+
+More information on `cubs` will be available soon. But I'm proud I wrote it from scratch and it now can be used as a very versatile and flexible installation framework for other distributions as well!
