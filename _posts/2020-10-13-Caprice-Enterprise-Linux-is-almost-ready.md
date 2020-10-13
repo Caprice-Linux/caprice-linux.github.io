@@ -26,3 +26,11 @@ In case of a server operating system, we needed something which works in the com
 He told me that they don't have any command-line options yet. So, he just guided me about how the installer works and it really made me happy. I had the skeleton of what I needed. So, I asked one of my interns to work on that. She came up with a pretty good algorithm and after a few days, I came up with the idea of _Caprice Unified Base System_ or `cubs` for short as the backend for a good system installer. 
 
 More information on `cubs` will be available soon. But I'm proud I wrote it from scratch and it now can be used as a very versatile and flexible installation framework for other distributions as well!
+
+### Repositories 
+
+Although we still have access to [Iranian Free Software Association](http://flossir.org/) servers and even our desktop version is still using those mirrors, but we wanted to have the __full__ authority over our product. So, Finding a server with reliable uptime and enough space, wasn't an easy task to be done. 
+
+I was searching over the internet in past couple of days to find a good provider. Fortunately, I found one. I ordered my desired server and I also asked them for custom operating system installation. When everything was all set, I created the mirror and it will be announced very very soon. 
+
+## Target market of _Caprice Enterprise Linux_ 
